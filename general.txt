@@ -1,1 +1,1 @@
-npm run dev
+npm dev run
